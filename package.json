@@ -15,7 +15,13 @@
     "commands": [
       {
         "command": "codeassistgpt.helloWorld",
-        "title": "Hello World"
+        "title": "Hello World",
+        "category": "codeassistgpt"
+      },
+      {
+        "command": "codeassistgpt.Chat",
+        "title": "Chat Bro",
+        "category": "codeassistgpt"
       }
     ]
   },
